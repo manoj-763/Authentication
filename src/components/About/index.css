@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+p {
+  font-size: 35px;
+  display: flex;
+  justify-content: center;
+}
